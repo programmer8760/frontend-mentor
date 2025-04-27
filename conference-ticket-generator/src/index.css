@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Inconsolata";
+    src: url("./assets/fonts/static/Inconsolata-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Inconsolata-ExtraBold";
+    src: url("./assets/fonts/static/Inconsolata-ExtraBold.ttf");
+}
